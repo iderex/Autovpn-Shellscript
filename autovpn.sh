@@ -1,13 +1,5 @@
 #!/bin/bash
 
-# Description:
-# Make the script executable "chmod +x /path/to/the/script.sh
-# Put the script in .profile or .bashrc so it can be run on user login:
-# Example: echo "/path/to/the/script.sh start &" >> .bashrc
-# The script can be bound to shortcut keys with these commands:
-# /path/to/the/script.sh start # starts and monitors VPN connection
-# /path/to/the/script.sh stop # stops the monitor and also the VPN connection
-
 ##########
 # Config #
 ##########
